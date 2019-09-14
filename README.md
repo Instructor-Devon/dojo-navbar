@@ -1,7 +1,10 @@
 # Group Assignment: Navbar
-New Element: <nav></nav>
+New Element: 
+```html
+<nav></nav>
+```
 
-Essentially just a <div> but conforms to a convention in HTML5, known as symantic tags.  Generally, if you have a div with a defined purpose (navbar, header, footer, etc) you would instead use the appropriate symantic tagname.
+Essentially just a `<div>` but conforms to a convention in HTML5, known as symantic tags.  Generally, if you have a div with a defined purpose (navbar, header, footer, etc) you would instead use the appropriate symantic tagname.
 
 /* link to / list of all html5 semantic tags */
 
