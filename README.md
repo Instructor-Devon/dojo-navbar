@@ -4,7 +4,7 @@ New Element:
 <nav></nav>
 ```
 
-Essentially just a `<div>` but conforms to a convention in HTML5, known as symantic tags.  Generally, if you have a div with a defined purpose (navbar, header, footer, etc) you would instead [use the appropriate symantic tagname](https://www.w3schools.com/html/html5_semantic_elements.asp).
+Essentially just a `<div>` but conforms to a convention in HTML5, known as semantic tags.  Generally, if you have a div with a defined purpose (navbar, header, footer, etc) you would instead [use the appropriate semantic tagname](https://www.w3schools.com/html/html5_semantic_elements.asp).
 
 
 
